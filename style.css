@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+body {
+  overflow: hidden; /* Prevents all scrolling */
+}
+
+
 .photo1 {
     position: absolute;
     /* visibility: hidden; */
